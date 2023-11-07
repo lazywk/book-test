@@ -1,0 +1,5 @@
+export const APP_NAME = 'Boomerang'
+export const PERSIST_STORE_NAME = 'admin'
+export const REDIRECT_URL_KEY = 'redirectUrl'
+export const REQUEST_HEADER_AUTH_KEY = 'Authorization'
+export const TOKEN_TYPE = 'Token '
